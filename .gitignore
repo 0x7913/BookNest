@@ -1,0 +1,29 @@
+# Gradle / Android 构建产物
+*.iml
+.gradle/
+build/
+/app/build/
+.kotlin/
+captures/
+/release
+.externalNativeBuild/
+.cxx/
+local.properties
+*.apk
+*.aab
+*.hprof
+
+# IDE
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/
+.DS_Store
+Thumbs.db
+
+# 本机工作记录与临时截图，不入库
+.workbuddy/
+.wb_*
